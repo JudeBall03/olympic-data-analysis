@@ -73,9 +73,9 @@ This captures both:
 
 ## Repository Structure
 
-- data/        Raw dataset
-- src/         R analysis script
-- README.md    Project overview
+- data/        #Raw dataset
+- src/         #R analysis script
+- README.md    #Project overview
 
 ---
 
