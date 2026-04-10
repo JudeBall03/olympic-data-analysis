@@ -28,6 +28,14 @@ relate to Olympic performance.
 
 ---
 
+## Example Visualisation
+
+Relationship between number of athletes sent and medal performance, segmented by income group:
+
+![Athletes vs Medal Score](relationship_athletes_vs_medal_score.png)
+
+---
+
 ## Methodology
 
 The analysis follows a structured statistical workflow:
