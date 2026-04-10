@@ -20,7 +20,7 @@
 # Load the original dataset
 
 # Note: In this dataset, `noc` refers to the Name of Country, not the National Olympic Committee.
-original_data <- read.csv("olympic_data.csv")
+original_data <- read.csv("data/olympic_data.csv")
 
 
 
