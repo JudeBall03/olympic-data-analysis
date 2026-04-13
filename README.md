@@ -84,10 +84,10 @@ This captures both:
 
 ## How to Run
 
-1. Clone the repository  
-2. Open the project folder in R  
-3. Ensure the working directory is set to the project root (the `olympic-data-analysis-main` folder)  
-4. Run the script in `src/` to reproduce the analysis  
+1. Clone or download the repository
+2. Open the project folder in R
+3. Ensure the working directory is set to the project root
+4. Run `src/olympic_analysis.R` to reproduce the analysis  
 
 ---
 
