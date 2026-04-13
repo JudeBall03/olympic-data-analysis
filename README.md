@@ -82,6 +82,15 @@ This captures both:
 
 ---
 
+## How to Run
+
+1. Clone the repository  
+2. Open the script in R  
+3. Ensure required packages are installed  
+4. Run the script in `src/` to reproduce the analysis
+
+---
+
 ## Tech Stack
 
 - R
