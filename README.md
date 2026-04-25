@@ -78,7 +78,7 @@ This captures both:
   - raw dataset used for analysis  
 - `sql/`
   - relational schema and SQL-based analysis (queries, window functions, aggregations)  
-- `src/`
+- `r/`
   - R script for regression analysis  
 - `README.md`
   - project overview
