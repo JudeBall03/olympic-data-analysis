@@ -1,3 +1,6 @@
+-- Shows total Olympic medals by country alongside GDP per capita
+-- Demonstrates JOIN, aliasing, and ORDER BY
+
 SELECT 
     c.country_code,
     o.total AS total_medals,
