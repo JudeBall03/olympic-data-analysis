@@ -33,7 +33,7 @@ The analysis is complemented by SQL-based querying, used to restructure the data
 
 Relationship between number of athletes sent and medal performance, segmented by income group:
 
-![Athletes vs Medal Score](relationship_athletes_vs_medal_score.png)
+![Athletes vs Medal Score](plots/relationship_athletes_vs_medal_score.png)
 
 ---
 
