@@ -15,6 +15,7 @@ The analysis explores how variables such as:
 - health indicators  
 
 relate to Olympic performance.
+The analysis is complemented by SQL-based querying, used to restructure the dataset and validate key insights from the regression model.
 
 ---
 
@@ -73,12 +74,14 @@ This captures both:
 
 ## Repository Structure
 
-- data/
-  - Raw dataset
-- src/
-  - R analysis script
-- README.md
-  - Project overview
+- `data/`
+  - raw dataset used for analysis  
+- `sql/`
+  - relational schema and SQL-based analysis (queries, window functions, aggregations)  
+- `src/`
+  - R script for regression analysis  
+- `README.md`
+  - project overview
 
 ---
 
@@ -93,7 +96,8 @@ This captures both:
 
 ## Tech Stack
 
-- R
+- R (data analysis, statistical modelling)
+- SQL (relational schema design, analytical querying)
 - Linear regression
 - Data visualisation
 
