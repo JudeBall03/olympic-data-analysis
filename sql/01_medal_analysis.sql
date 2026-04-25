@@ -1,5 +1,5 @@
--- Shows total Olympic medals by country alongside GDP per capita
--- Demonstrates JOIN, aliasing, and ORDER BY
+-- Analyse relationship between GDP per capita and total Olympic medals by country
+-- Combines socio-economic and performance data using a JOIN
 
 SELECT 
     c.country_code,
@@ -7,5 +7,5 @@ SELECT
     c.gdp_per_capita
 FROM countries c
 JOIN olympic_performance o
-ON c.country_code = o.country_code
+    ON c.country_code = o.country_code
 ORDER BY total_medals DESC;
